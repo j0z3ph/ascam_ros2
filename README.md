@@ -2,7 +2,7 @@
 
 **Este paquete permite la integración de la cámara de profundidad en ROS 2.**
 
-![RViz Preview](rviz_preview.png)
+
 
 ## 1. Clonar
 Sitúate en tu espacio de trabajo y clona el repositorio:
