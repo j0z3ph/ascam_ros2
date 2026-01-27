@@ -86,7 +86,3 @@ rviz2
 
 * **Frame ID:** `ascamera_hp60c_color_0`
 * **Tópicos:** Agrega `/ascamera/images` o `/ascamera/depth`.
-
-```
-
-```
